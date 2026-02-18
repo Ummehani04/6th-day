@@ -1,4 +1,3 @@
-I have edited this file 
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -60,4 +59,7 @@ I have edited this file
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-     This is an error file 
+            </plugin>
+        </plugins>
+    </build>
+</project>
